@@ -1,0 +1,11 @@
+@import '../../../../../scss/variables';
+
+#main-header {
+  background-color: $primaryColor;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1.5em 0 1.5em;
+  color: white;
+  align-items: center;
+  height: 3em;
+}
